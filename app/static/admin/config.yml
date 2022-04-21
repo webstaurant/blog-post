@@ -1,6 +1,5 @@
-# Backend https://www.netlifycms.org/docs/configuration-options/#backend
 backend:
- name: git-gateway
+  name: git-gateway
   repo: webstaurant/blog-post
   branch: main
 
